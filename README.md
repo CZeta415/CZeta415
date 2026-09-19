@@ -16,7 +16,7 @@
 
 Soy un desarrollador en formación apasionado por salir de lo convencional, explorando la ingeniería inversa, el modding de videojuegos y la optimización extrema de sistemas.
 
-- 🎓 **Formación:** Estudiante de la Tecnicatura en Desarrollo de Software. Cuento con **3 certificados en Inteligencia Artificial** (desde nivel introductorio hasta avanzado), **Robótica Básica** y **Comunicación**.
+- 🎓 **Formación:** Estudiante de la Tecnicatura en Desarrollo de Software. Cuento con **3 certificados en Inteligencia Artificial** (desde nivel introductorio hasta avanzado), **Robótica Básica**, **Comunicación** e **Introduccion a varios lenguajes de codigo**.
 - 🎮 **Modding & Reversing:** Programación profunda de mods (vía frameworks como BepInEx), traducción de videojuegos y desarrollo de bots para Discord.
 - 🎨 **Diseño & Multimedia:** Dibujo digital y pixel art (Photopea, Ibis Paint), composición musical con software especializado y modelado 3D para impresión.
 - 🗣️ **Idiomas:** Puedo entender **Inglés** técnico, actualmente aprendo **Francés** y en un futuro aprenderé **Ruso**.
@@ -45,7 +45,7 @@ Soy un desarrollador en formación apasionado por salir de lo convencional, expl
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=windows,linux,arch,debian,ubuntu&theme=dark" alt="Sistemas Operativos" />
   </a>
-  <p><i>* Usuario fluido de Windows (7 al 11), distribuciones Linux (Huayra, Arch, Debian, Ubuntu, Nobara) y OS customizados para optimización (como OptiJuegos).</i></p>
+  <p><i>* Usuario fluido de Windows (7 al 11), distribuciones Linux (Huayra, Arch, Debian, Ubuntu, Nobara) y OS customizados para optimización.</i></p>
 </div>
 
 ---
