@@ -109,7 +109,7 @@ Soy un desarrollador en formación y siempre trato de entender *cómo funcionan 
 <p align="center">
   <img src="https://i.imgur.com/ybmQ2fb.png" width="24.2%" style="border-radius: 10px;" alt="Pixel Art 1" /> 
   <img src="https://i.imgur.com/Aie5gGI.png" width="30%" style="border-radius: 10px;" alt="Dibujo Digital 2" /> 
-  <img src="https://i.imgur.com/Sk1Dtgk.gif" width="30.1%" style="border-radius: 10px;" alt="Animacion de prueba sencilla 3" />
+  <!--|<img src="https://i.imgur.com/Sk1Dtgk.gif" width="30.1%" style="border-radius: 10px;" alt="Animacion de prueba sencilla 3" /> removido por q no funciona bien :P |--> 
 </p>
 
 <br><br>
