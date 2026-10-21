@@ -3,10 +3,6 @@
 </div>
 
 <div align="center">
-  <img src="https://i.imgur.com/moQCLHe.gif" alt="Efecto visual futurista en tonos neón" width="100%" />
-</div>
-
-<div align="center">
   <img src="https://avatars.githubusercontent.com/u/201188989?s=400&u=2530281a1ad0026bce480fda87eabe47170df09f&v=4" alt="Avatar de CZeta415" width="150" height="150" />
 </div>
 
@@ -22,7 +18,7 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Separador animado" />
 </div>
 
-## 🛸 Sobre mí
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Flying%20Saucer.png" width="28" alt="Emoji animado de platillo volador" /> Sobre mí
 
 Soy un desarrollador en formación que disfruta entender **cómo funcionan las cosas por dentro**. Me enfoco en programación práctica, modding seguro, optimización y diseño visual aplicado a software y contenido digital.
 
@@ -39,7 +35,7 @@ Soy un desarrollador en formación que disfruta entender **cómo funcionan las c
 - 🌐 **Metas:** Desarrollar extensiones de navegador, construir robots físicos, aprender guitarra/piano... ¡y abrir una cafetería! ☕
 </details>
 
-### 🚀 Enfoque actual
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="24" alt="Emoji animado de cohete" /> Enfoque actual
 
 - Fortalecer bases sólidas en desarrollo de software.
 - Crear soluciones útiles con un enfoque visual y funcional.
@@ -49,7 +45,7 @@ Soy un desarrollador en formación que disfruta entender **cómo funcionan las c
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Separador animado" />
 </div>
 
-## 🧩 Arsenal tecnológico
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Toolbox.png" width="28" alt="Emoji animado de caja de herramientas" /> Arsenal tecnológico
 
 <table>
   <tr>
@@ -79,6 +75,15 @@ Soy un desarrollador en formación que disfruta entender **cómo funcionan las c
       <img src="https://img.shields.io/badge/Laragon-0E83CD?style=for-the-badge&logo=laragon&logoColor=white" alt="Badge de Laragon" />
       <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white" alt="Badge de XAMPP" />
       <img src="https://img.shields.io/badge/Burp%20Suite-FF6F00?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Badge de Burp Suite" />
+      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Badge de Git" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>🧪 Modding y reversing</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/BepInEx-3D3D3D?style=for-the-badge&logo=dotnet&logoColor=white" alt="Badge de BepInEx" />
+      <img src="https://img.shields.io/badge/Nexus%20Mods-E6832B?style=for-the-badge&logo=nexusmods&logoColor=white" alt="Badge de Nexus Mods" />
+      <img src="https://img.shields.io/badge/Cheat%20Engine-7D4CDB?style=for-the-badge&logoColor=white" alt="Badge de Cheat Engine" />
     </td>
   </tr>
   <tr>
@@ -88,6 +93,12 @@ Soy un desarrollador en formación que disfruta entender **cómo funcionan las c
         <img src="https://skillicons.dev/icons?i=windows,linux,arch,debian,ubuntu&theme=dark" alt="Iconos de Windows, Linux, Arch, Debian y Ubuntu" />
       </a>
       <img src="https://img.shields.io/badge/Nobara-5B3FD4?style=for-the-badge&logo=fedora&logoColor=white" alt="Badge de Nobara Linux" />
+      <br />
+      <img src="https://img.shields.io/badge/Windows%2011-0078D4?style=for-the-badge&logo=windows11&logoColor=white" alt="Badge de Windows 11" />
+      <img src="https://img.shields.io/badge/Windows%2010-0078D4?style=for-the-badge&logo=windows10&logoColor=white" alt="Badge de Windows 10" />
+      <img src="https://img.shields.io/badge/Windows%208.1-0078D4?style=for-the-badge&logo=windows8&logoColor=white" alt="Badge de Windows 8.1" />
+      <img src="https://img.shields.io/badge/Windows%207-1B5E9A?style=for-the-badge&logo=windows&logoColor=white" alt="Badge de Windows 7" />
+      <img src="https://img.shields.io/badge/Windows%20XP-2A7BD3?style=for-the-badge&logo=windowsxp&logoColor=white" alt="Badge de Windows XP" />
     </td>
   </tr>
 </table>
@@ -96,7 +107,7 @@ Soy un desarrollador en formación que disfruta entender **cómo funcionan las c
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Separador animado" />
 </div>
 
-## 📊 Actividad y contribuciones
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="28" alt="Emoji animado de gráfico" /> Actividad y contribuciones
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=CZeta415&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5D4&icon_color=00F5D4&text_color=E6F1FF" height="180" alt="Tarjeta de estadísticas generales de GitHub" />
@@ -117,32 +128,27 @@ Soy un desarrollador en formación que disfruta entender **cómo funcionan las c
 </div>
 
 <div align="center">
-  <sub>Si alguna tarjeta no carga por límites del servicio externo, puedes ver la actividad directamente en el perfil: <a href="https://github.com/CZeta415">github.com/CZeta415</a>.</sub>
-</div>
-
-<div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Separador animado" />
 </div>
 
-## 🎨 Arte digital y pixel art
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Artist%20Palette.png" width="28" alt="Emoji animado de paleta de arte" /> Arte digital y pixel art
 
 <div align="center">
   <img src="https://i.imgur.com/ybmQ2fb.png" width="24.2%" alt="Pixel art con estética retro" />
   <img src="https://i.imgur.com/Aie5gGI.png" width="30%" alt="Ilustración digital creada por CZeta415" />
-  <img src="https://i.imgur.com/Sk1Dtgk.gif" width="30.1%" alt="Animación pixel art en formato GIF" />
 </div>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Separador animado" />
 </div>
 
-## 🎯 Intereses y objetivos
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bullseye.png" width="28" alt="Emoji animado de objetivo" /> Intereses y objetivos
 
 - Diseñar software funcional con identidad visual cuidada.
 - Impulsar proyectos de modding/traducción y automatización en comunidad.
 - Aprender continuamente en desarrollo, robótica y creación multimedia.
 
-## 🤝 Contacto y apoyo
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Handshake.png" width="28" alt="Emoji animado de apretón de manos" /> Contacto y apoyo
 
 <div align="center">
   <a href="https://github.com/CZeta415">
